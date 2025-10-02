@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className='font-sans font-medium'>
             <ul className='flex justify-center gap-2.5 '>
                 <li><a href="/">Home</a></li>
-                <li><a href="/">About</a></li>
+                <li><a href="/">Abut</a></li>
                 <li><a href="/">Contact</a></li>
             </ul>
         </div>
